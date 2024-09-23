@@ -1,0 +1,30 @@
+{
+  "patients": [
+    {
+      "patient_id": "001",
+      "name": "John Doe",
+      "age": 35,
+      "gender": "Male",
+      "blood_pressure": {
+        "systolic": 120,
+        "diastolic": 80
+      },
+      "heart_rate": 72,
+      "conditions": ["Hypertension"],
+      "last_visit": "2024-09-10"
+    },
+    {
+      "patient_id": "002",
+      "name": "Jane Smith",
+      "age": 29,
+      "gender": "Female",
+      "blood_pressure": {
+        "systolic": 110,
+        "diastolic": 70
+      },
+      "heart_rate": 68,
+      "conditions": ["Asthma"],
+      "last_visit": "2024-09-15"
+    }
+  ]
+}
